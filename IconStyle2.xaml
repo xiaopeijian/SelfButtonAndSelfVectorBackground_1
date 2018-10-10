@@ -1,0 +1,52 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:SelfButtonAndSelfVectorBackground_1">
+
+    <Canvas x:Key="Search_Enable" Width="60" Height="60">
+        <Path Data="M0.5,5.5 C0.5,2.7385763 2.7385763,0.5 5.5,0.5 L116.5,0.5 C119.26142,0.5 121.5,2.7385763 121.5,5.5 L121.5,46.5 C121.5,49.261424 119.26142,51.5 116.5,51.5 L5.5,51.5 C2.7385763,51.5 0.5,49.261424 0.5,46.5 z" HorizontalAlignment="Left" Height="60"  Stretch="Fill" Stroke="#FFCDCDCD" VerticalAlignment="Bottom" Width="60" >
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" Opacity="0.99" StartPoint="0.5,0">
+                    <GradientStop Color="#FFDCE0E3" Offset="0.456"/>
+                    <GradientStop Color="#FFD8DDE0" Offset="0.828"/>
+                    <GradientStop Color="White" Offset="0.033"/>
+                    <GradientStop Color="White" Offset="0.979"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Stroke="#FF4E7BBF" Fill="#FF4E7BBF" Data="M7.2303035,8.8942575 L7.2756767,27.597133 27.707541,27.597133 z M7.2244604,6.4857209 L7.2264376,7.3007441 28.698953,26.912656 28.649396,6.4857209 z M30.622882,0.5 L30.632577,4.4967209 35.174422,4.4967209 35.174422,6.4857209 30.637403,6.4857209 30.691373,28.73243 34.160798,31.901229 33.36906,32.768079 29.90898,29.607818 28.705499,29.610738 28.70544,29.586133 7.2805021,29.586133 7.2919586,34.308541 5.3039639,34.313365 5.2924955,29.586133 0.5,29.586133 0.5,27.597133 5.2876701,27.597133 5.2378822,7.0744803 0.82748747,3.0462483 1.6192245,2.1793989 5.2134219,5.4621572 5.2134219,4.4967209 28.64457,4.4967209&#xD;&#xA;28.634887,0.50482321 z" Height="34.814" Canvas.Left="-2.71" RenderTransformOrigin="0.566061635759589,0.157733109590804" Stretch="Fill" Canvas.Top="22.645" Width="35.674">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="270.19"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+    </Canvas>
+
+
+    <Canvas x:Key="Search_Touches" Width="60" Height="60">
+        <Path Data="M0.5,5.5 C0.5,2.7385763 2.7385763,0.5 5.5,0.5 L116.5,0.5 C119.26142,0.5 121.5,2.7385763 121.5,5.5 L121.5,46.5 C121.5,49.261424 119.26142,51.5 116.5,51.5 L5.5,51.5 C2.7385763,51.5 0.5,49.261424 0.5,46.5 z" HorizontalAlignment="Left" Height="60"  Stretch="Fill" Stroke="#FFCDCDCD" VerticalAlignment="Bottom" Width="60" >
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" Opacity="0.99" StartPoint="0.5,0">
+                    <GradientStop Color="#FF00FF6F" Offset="0.456"/>
+                    <GradientStop Color="#FFD8DDE0" Offset="0.828"/>
+                    <GradientStop Color="#FFFF0085" Offset="0.033"/>
+                    <GradientStop Color="#FF29184B" Offset="0.979"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Stroke="#FF9BACBE" Fill="#FF9BACBE" Data="M7.2303035,8.8942575 L7.2756767,27.597133 27.707541,27.597133 z M7.2244604,6.4857209 L7.2264376,7.3007441 28.698953,26.912656 28.649396,6.4857209 z M30.622882,0.5 L30.632577,4.4967209 35.174422,4.4967209 35.174422,6.4857209 30.637403,6.4857209 30.691373,28.73243 34.160798,31.901229 33.36906,32.768079 29.90898,29.607818 28.705499,29.610738 28.70544,29.586133 7.2805021,29.586133 7.2919586,34.308541 5.3039639,34.313365 5.2924955,29.586133 0.5,29.586133 0.5,27.597133 5.2876701,27.597133 5.2378822,7.0744803 0.82748747,3.0462483 1.6192245,2.1793989 5.2134219,5.4621572 5.2134219,4.4967209 28.64457,4.4967209&#xD;&#xA;28.634887,0.50482321 z" Height="34.814" Canvas.Left="-2.71" RenderTransformOrigin="0.566061635759589,0.157733109590804" Stretch="Fill" Canvas.Top="22.645" Width="35.674">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="270.19"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Path.RenderTransform>
+        </Path>
+    </Canvas>
+    
+</ResourceDictionary>

@@ -1,0 +1,17 @@
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\bin\Debug\SelfButtonAndSelfVectorBackground_1.exe.config
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\bin\Debug\SelfButtonAndSelfVectorBackground_1.exe
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\bin\Debug\SelfButtonAndSelfVectorBackground_1.pdb
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\obj\Debug\MainWindow.g.cs
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\obj\Debug\App.g.cs
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\obj\Debug\SelfButtonAndSelfVectorBackground_1_MarkupCompile.cache
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\obj\Debug\SelfButtonAndSelfVectorBackground_1_MarkupCompile.lref
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\obj\Debug\IconStyle2.baml
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\obj\Debug\ImageButtonStyle.baml
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\obj\Debug\MainWindow.baml
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\obj\Debug\SelfButtonAndSelfVectorBackground_1.g.resources
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\obj\Debug\SelfButtonAndSelfVectorBackground_1.Properties.Resources.resources
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\obj\Debug\SelfButtonAndSelfVectorBackground_1.csproj.GenerateResource.Cache
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\obj\Debug\SelfButtonAndSelfVectorBackground_1.exe
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\obj\Debug\SelfButtonAndSelfVectorBackground_1.pdb
+F:\百度云同步盘\我的学习\7、WPF\WPF开源\赵工\SelfButtonAndSelfVectorBackground_1\SelfButtonAndSelfVectorBackground_1\obj\Debug\App.baml
